@@ -1,0 +1,34 @@
+Easy to learn and code : Python is easy to learn as compared to other programming languages. It's syntax is straightforward. There's no use of semicolon or curly brackets, the indentation defines the code block. 
+                         Python has a limited set of keywords 
+Expressive language :  Python can perform complex tasks using a g=few lines of code. A simple example, the hello world program you can simply type print("Hello World!"). It will only take one line to execute while 
+                       c,java takes multiple lines.
+python is interpreter based : in case of a compiler, a machine language program of the entire source code is generated. The conversion will fail even if there is a single erroneous statement. Hence, the development 
+                      process is tedious for the beginners. Python is interpreter based language. The interpreter takes one instruction from the souce code at a time, translates it into machine code and executes it.
+                      Instructions before the first occurence of error are executed. With this feature. it is easier to debug the program and thus proves useful for the beginner level programmer to gain confidence 
+                      gradually. Python is a beginner friendly language.
+python is interactive : Standard python distribution comes with an interactive shell that works on the principle of REPL. The shell presents a python prompt ">>>". You can type any valid python expression and type 
+                     Enter. Python interpreter immediately returns the response and the prompt comes back to read the next expression. The interactive mode is especially useful to get familiar with a library and
+                     test out its functionality.
+Python is multiparadigm : Python is a completely object_oreiented programming language. Everything in a Python program is an object. However, Python conveniently encapsulates it's object orientation to be used as an
+                     imperative or procedural language-such as C. Python also provides certain functionality that resembles functional programming.
+Cross-Platform language : Python can run equally on different platforms such as Windows, Linux, UNIX,etc. So, we can say that Python is a portable language.It enables programmer to develop the software
+                       for several competing platforms by writing a program only once. A python prgram is first compiled to an intermediate platform independent bytecode. The virtual machine inside the interpreter
+                       then executes the bytecode. This behaviour makes Python a cross-platform independent language.
+Python's Standard Library: Even though it has very few keywords(only 35) , Python software is ditributed with a standard library madeup of large numbers of module and packages. Python has out of box support for 
+                        programming needs such as serialization, data compression, internet data handling. It has large range of libraries such as Machine Learning, web development, ex, Tensorflow,Pytorch, Pandas,
+                        NumPy,Django,Flask,Keras,Pyramids.(for web development).
+GUI Support : Python's standard distribution has an excellent graphics library called as TKinter. It is a Python port for the vastly popular toolkit called TCL/Tk. You could build attractive user-friendly GUI 
+                      applications in  Python. GUI toolkits are generally written in C/C++. Many of them have been ported to Python. ex: PyQt, WxWidgets, PySimpleGUI.etc.
+Python's Database Connectivity : Almost any type of database can be used as a backend with the Python application. DB-API is a set of specifications for database driver software to let Python communicate with 
+                      relational database. With many thirs party libraries, Python can also work with NoSQL databases such as MongoDB.
+Python is extensible: The term extensibility implies the ability to add new features or modify existing features. CPython is written in C. Hence, one can easily write modules/libraries in C and incorporate them in 
+                      standard library. There are other implementation of Python such as Jython(written in Java) and IPython(written in C#). Hence, it is possible to write and merge new functionality in these 
+                     implementations with Java and C# respectively.
+Dynamic Memory Allocation : In Python, we don't need to specify the datatype of the variable. When we assign some value to the variable, it automatically allocates the memory to the varible at run time.
+Free and Open-Source: Python is freely available for everyone. It is freely available on it's official website. 
+Object-Oriented Language : Python supports Object-Oriented-Language and concepts of classes and objects. It supports inheritence, polymorphism,and encapsulation. The object-oriented procedure helps the programmer
+                      to write reusable code and develop applications in less code.
+ Integrated and Embeddable:                     
+
+                       
+                     
